@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="assets_report_asset_code" model="account.report.column">
+        <field name="name">Asset Code</field>
+        <field name="expression_label">x_studio_asset_code</field>
+        <field name="figure_type">string</field>
+        <field name="sequence">-10</field>
+        <field name="report_id" ref="account_asset.assets_report"/>
+    </record>
+</odoo>
