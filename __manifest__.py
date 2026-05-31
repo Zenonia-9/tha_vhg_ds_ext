@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "THA VHG Depreciation Schedule Extension",
+    "name": "VHG Depreciation Schedule Extension",
     "summary": "Adds Asset Code to the original Depreciation Schedule report.",
     "version": "19.0.1.0.0",
     "category": "Accounting/Accounting",
